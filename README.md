@@ -2,4 +2,4 @@
 a very simple react calculator. Will get better
 
 
-demo: ultimate-calc1.netlify.app
+demo: https://ultimate-calc1.netlify.app/
